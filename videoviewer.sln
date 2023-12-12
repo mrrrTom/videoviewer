@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "videoviewer", "videoviewer\videoviewer.vcxproj", "{E1B56A88-FD2D-4617-9C6E-70AC8CC4A9F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1B56A88-FD2D-4617-9C6E-70AC8CC4A9F9}.Debug|x64.ActiveCfg = Debug|x64
+		{E1B56A88-FD2D-4617-9C6E-70AC8CC4A9F9}.Debug|x64.Build.0 = Debug|x64
+		{E1B56A88-FD2D-4617-9C6E-70AC8CC4A9F9}.Debug|x86.ActiveCfg = Debug|Win32
+		{E1B56A88-FD2D-4617-9C6E-70AC8CC4A9F9}.Debug|x86.Build.0 = Debug|Win32
+		{E1B56A88-FD2D-4617-9C6E-70AC8CC4A9F9}.Release|x64.ActiveCfg = Release|x64
+		{E1B56A88-FD2D-4617-9C6E-70AC8CC4A9F9}.Release|x64.Build.0 = Release|x64
+		{E1B56A88-FD2D-4617-9C6E-70AC8CC4A9F9}.Release|x86.ActiveCfg = Release|Win32
+		{E1B56A88-FD2D-4617-9C6E-70AC8CC4A9F9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EE960A2-BC43-4ECE-B32E-FFF321DB1257}
+	EndGlobalSection
+EndGlobal
